@@ -19,6 +19,7 @@ int main(void){
     n=strlen(c)
     for(i=0;i<n;i++);
     std::cout<<c;
+    return 0;
 }
 
 int strlen(char cadena[])
